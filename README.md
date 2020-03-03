@@ -1,2 +1,2 @@
-# CodePlatoon
+# CodePlatoon Coding Challenges
 Coding Challenges/App
