@@ -1,2 +1,2 @@
 # CodePlatoon
-Prep
+Coding Challenges/App
